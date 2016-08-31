@@ -1,0 +1,9 @@
+FotoMosaico, versão final
+
+Projeto de Programação de Computadores II - TCC 00.309
+Professor: Leandro Augusto Frata Fernandes
+
+Aluno: Marcelo Pablo de Jesus Muniz
+Matrícula: 114031039
+
+Documentação presente em "dist\javadoc\"
